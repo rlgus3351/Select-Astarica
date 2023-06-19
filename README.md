@@ -5,6 +5,12 @@ DataSet Dashboard, Analysis
 <div align=center>
     <h1>라벨링 영역 비율 기반 평가지표를 활용한 <br>이미지 데이터셋 품질 평가 서비스</h1>
 </div>
+    <ul>
+      <li>MVC패턴을 이용한 Web Service</li>
+      <li>AJAX를 이용한 Flask와 Apache Tomcat과 연동</li>
+      <li>Mybatis와 hikaricp를 이용한 Mysql 연동</li>
+    </ul>
+<hr>
 <h4>팀원 소개</h4>
 <table>
     <tr>
@@ -115,7 +121,6 @@ DataSet Dashboard, Analysis
             <td><img src="./Image/메인페이지.jpg" width="400px" alt=""></td>
         </tbody>
     </table>
-    <br>
     <table>
         <thead>
             <td align="center">클래스 시각화</td>
@@ -150,5 +155,6 @@ DataSet Dashboard, Analysis
 <hr>
 <h4>시연 영상</h4>
 <div>
-    <video src="Image/시연영상.mp4" width="70%"></video>
+    <img src="./Image/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.gif" width="100%">
+
 </div>
