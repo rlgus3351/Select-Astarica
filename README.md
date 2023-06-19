@@ -111,8 +111,8 @@ DataSet Dashboard, Analysis
             <td align="center">데이터 리스트 화면</td>
         </thead>
         <tbody>
-            <td><img src="./Image/로그인.png" width="300px" alt=""></td>
-            <td><img src="./Image/메인페이지.jpg" width="300px" alt=""></td>
+            <td><img src="./Image/로그인.png" width="350px" alt=""></td>
+            <td><img src="./Image/메인페이지.jpg" width="350px" alt=""></td>
         </tbody>
     </table>
     <br>
@@ -122,8 +122,8 @@ DataSet Dashboard, Analysis
             <td align="center">Bbox 영역 시각화</td>
         </thead>
         <tbody>
-            <td><img src="./Image/클래스 차트.jpg" width="300px" alt=""></td>
-            <td><img src="./Image/bbox차트.jpg" width="300px" alt=""></td>
+            <td><img src="./Image/클래스 차트.jpg" width="350px" alt=""></td>
+            <td><img src="./Image/bbox차트.jpg" width="350px" alt=""></td>
         </tbody>
     </table>
     <table>
@@ -132,8 +132,8 @@ DataSet Dashboard, Analysis
             <td align="center">데이터 업로드 화면</td>
         </thead>
         <tbody>
-            <td><img src="./Image/이미지 배율 분석.jpg" width="300px" alt=""></td>
-            <td><img src="./Image/업로드.jpg" width="300px" alt=""></td>
+            <td><img src="./Image/이미지 배율 분석.jpg" width="350px" alt=""></td>
+            <td><img src="./Image/업로드.jpg" width="350px" alt=""></td>
         </tbody>
     </table>
     <table>
@@ -142,8 +142,8 @@ DataSet Dashboard, Analysis
             <td align="center">데이터 평가</td>
         </thead>
         <tbody>
-            <td><img src="./Image/분석창.jpg" width="300px" alt=""></td>
-            <td><img src="./Image/데이터 평가.jpg" width="300px" alt=""></td>
+            <td><img src="./Image/분석창.jpg" width="350px" alt=""></td>
+            <td><img src="./Image/데이터 평가.jpg" width="350px" alt=""></td>
         </tbody>
     </table>
 </div>
