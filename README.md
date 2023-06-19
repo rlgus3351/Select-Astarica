@@ -115,7 +115,6 @@ DataSet Dashboard, Analysis
             <td><img src="./Image/메인페이지.jpg" width="400px" alt=""></td>
         </tbody>
     </table>
-    <br>
     <table>
         <thead>
             <td align="center">클래스 시각화</td>
