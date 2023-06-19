@@ -153,7 +153,6 @@ DataSet Dashboard, Analysis
     </table>
 </div>
 <hr>
-<br>
 <h4>시연 영상</h4>
 <div>
     <img src="./Image/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.gif" width="100%">
