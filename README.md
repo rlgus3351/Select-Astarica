@@ -10,12 +10,12 @@ DataSet Dashboard, Analysis
     <tr>
         <td align="center">
             <a href="https://github.com/rlgus3351">
-                <img src="./Image/권기현.jpg" width="150px" height="200px" alt="권기현 프로필">
+                <img src="./Image/권기현.jpg" width="165px" height="200px" alt="권기현 프로필">
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/so1454">
-                <img src="./Image/구소현.jpg" width="150px" height="200px" alt="권기현 프로필">
+                <img src="./Image/구소현.jpg" width="165px" height="200px" alt="권기현 프로필">
             </a>
         </td>
         <td align="center">
@@ -30,7 +30,7 @@ DataSet Dashboard, Analysis
         </td>
         <td align="center">
             <a href="https://github.com/webobae">
-                <img src="./Image/최근호.jpg" width="150px" height="200px" alt="최근호 프로필">
+                <img src="./Image/최근호.jpg" width="165px" height="200px" alt="최근호 프로필">
             </a>
         </td>
     </tr>
