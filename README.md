@@ -3,9 +3,9 @@
 DataSet Dashboard, Analysis
 <hr>
 <div align=center>
-    <h1>라벨링 영역 비율 기반 평가지표를 활용한 이미지 데이터셋 품질 평가 서비스</h1>
+    <h1>라벨링 영역 비율 기반 평가지표를 활용한 <br>이미지 데이터셋 품질 평가 서비스</h1>
 </div>
-팀원 소개
+<h4>팀원 소개</h4>
 <table>
     <tr>
         <td align="center">
@@ -66,24 +66,23 @@ DataSet Dashboard, Analysis
             PM<br>데이터 전처리<br>데이터 모델링<br>이미지 비율 기능 구현
         </td>
         <td align="center">
-            Back-end<br>원본 데이터 차트 시각화<br>데이터 프레임 비동기<br>통신 구현
+            Back-end<br>원본 데이터 차트 시각화<br>데이터 프레임 <br>비동기 통신 구현
         </td>
         <td align="center">
-            Front-end<br>데이터 시각화 페이지<br>데이터셋 점수 페이지 구현
+            Front-end<br>데이터 시각화 화면 구현<br>데이터셋 점수 페이지 
         </td>
         <td align="center">
-            Front-end<br>데이터 옵션 선택창<br>리스트 업로드 페이지 구현
+            Front-end<br>데이터 옵션 선택창<br>리스트 업로드 페이지 
         </td>
         <td align="center">
-            Back-end<br>비율 기반 차트 시각화<br>파일 업로드 기능 구현<br>파일 다운로드 기능 구현
+            Back-end<br>Bbox 영역 차트화<br>파일 업로드 기능 <br>파일 다운로드 기능
         </td>
     </tr>
 
 </table>
-
+<hr>
 <div align=left> 
-  ## 🛠 기술 스택
-  <hr>
+  <h3>🛠 기술 스택</h3>
   <h4>Back-end</h4>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -102,4 +101,54 @@ DataSet Dashboard, Analysis
   <h4>Cooperation</h4>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <hr>
+</div>
+
+<div align="left">
+    <h4>기능 소개</h4>
+    <table>
+        <thead>
+            <td align="center">회원가입 & 로그인 화면</td>
+            <td align="center">데이터 리스트 화면</td>
+        </thead>
+        <tbody>
+            <td><img src="./Image/로그인.png" width="300px" alt=""></td>
+            <td><img src="./Image/메인페이지.jpg" width="300px" alt=""></td>
+        </tbody>
+    </table>
+    <br>
+    <table>
+        <thead>
+            <td align="center">클래스 시각화</td>
+            <td align="center">Bbox 영역 시각화</td>
+        </thead>
+        <tbody>
+            <td><img src="./Image/클래스 차트.jpg" width="300px" alt=""></td>
+            <td><img src="./Image/bbox차트.jpg" width="300px" alt=""></td>
+        </tbody>
+    </table>
+    <table>
+        <thead>
+            <td align="center">이미지 배율 분석</td>
+            <td align="center">데이터 업로드 화면</td>
+        </thead>
+        <tbody>
+            <td><img src="./Image/이미지 배율 분석.jpg" width="300px" alt=""></td>
+            <td><img src="./Image/업로드.jpg" width="300px" alt=""></td>
+        </tbody>
+    </table>
+    <table>
+        <thead>
+            <td align="center">분석 화면</td>
+            <td align="center">데이터 평가</td>
+        </thead>
+        <tbody>
+            <td><img src="./Image/분석창.jpg" width="300px" alt=""></td>
+            <td><img src="./Image/데이터 평가.jpg" width="300px" alt=""></td>
+        </tbody>
+    </table>
+</div>
+<hr>
+<h4>시연 영상</h4>
+<div>
+    <video src="Image/시연영상.mp4" width="70%"></video>
 </div>
