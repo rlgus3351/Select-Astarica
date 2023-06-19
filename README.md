@@ -10,27 +10,27 @@ DataSet Dashboard, Analysis
     <tr>
         <td align="center">
             <a href="https://github.com/rlgus3351">
-                <img src="./Image/권기현.jpg" width="170px" height="220px" alt="권기현 프로필">
+                <img src="./Image/권기현.jpg" width="150px" height="200px" alt="권기현 프로필">
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/so1454">
-                <img src="./Image/구소현.jpg" width="170px"  alt="권기현 프로필">
+                <img src="./Image/구소현.jpg" width="150px" height="200px" alt="권기현 프로필">
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/vcfrgkap">
-                <img src="./Image/배다경.jpg" width="170px" height="220px" alt="배다경 프로필">
+                <img src="./Image/배다경.jpg" width="150px" height="200px" alt="배다경 프로필">
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/dlpmi99">
-                <img src="./Image/이세미.jpg" width="170px" height="220px" alt="이세미 프로필">
+                <img src="./Image/이세미.jpg" width="150px" height="200px" alt="이세미 프로필">
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/webobae">
-                <img src="./Image/최근호.jpg" width="170px" height="220px" alt="최근호 프로필">
+                <img src="./Image/최근호.jpg" width="150px" height="200px" alt="최근호 프로필">
             </a>
         </td>
     </tr>
@@ -78,6 +78,7 @@ DataSet Dashboard, Analysis
             Back-end<br>비율 기반 차트 시각화<br>파일 업로드 기능 구현<br>파일 다운로드 기능 구현
         </td>
     </tr>
+
 </table>
 
 <div align=left> 
